@@ -1,6 +1,6 @@
 # digit-prediction-cnn
 Model, trained over 5000 images of handwriiten digits using convolutional neural networks 
-Dataset (source: kaggle) conained 6144 images of handwritten digits from 0n to 9. Data set was split in training set and test set 
+Dataset (source: kaggle) contained 6144 images of handwritten digits from 0n to 9. Data set was split in training set and test set 
 (approximately 20% of data in test set)
 Architecture contains 3 conv layers out of which first  2 layers is followed by max pool layers.
 Filter (or kernel size) of 3x3 and stride of 2 was used
